@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/morey-tech-bot/demo-app
-  newTag: latest
+  newTag: 43d1017233dd462aff320808828a2ef326a30446
